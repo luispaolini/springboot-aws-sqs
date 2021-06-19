@@ -38,6 +38,6 @@ São necessários os seguintes pré-requisitos para a execução do projeto:
 Abaixo, seguem links bem bacanas, sobre tópicos mencionados:
 
 * [Referência para o AWS SQS](https://aws.amazon.com/pt/sqs/)
-* [Referência para o o AWS IAM[(https://aws.amazon.com/pt/iam/)
+* [Referência para o o AWS IAM](https://aws.amazon.com/pt/iam/)
 * [Site oficial do Spring](https://spring.io/)
 * [Referência para a página do Spring Cloud AWS](https://cloud.spring.io/spring-cloud-aws/spring-cloud-aws.html)
