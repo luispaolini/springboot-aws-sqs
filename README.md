@@ -40,4 +40,4 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados:
 * [Referência para o AWS SQS](https://aws.amazon.com/pt/sqs/)
 * [Referência para o o AWS IAM[(https://aws.amazon.com/pt/iam/)
 * [Site oficial do Spring](https://spring.io/)
-* [Referência para o Spring Cloud AWS](https://cloud.spring.io/spring-cloud-aws/spring-cloud-aws.html)
+* [Referência para a página do Spring Cloud AWS](https://cloud.spring.io/spring-cloud-aws/spring-cloud-aws.html)
