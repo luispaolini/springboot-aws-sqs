@@ -1,4 +1,4 @@
-<h2> Desenvolviment de aplicação para exemplificar o envio e consumo de mensagems para uma fila AWS SQS.<h2>
+<h2> Desenvolviment de aplicação para exemplificar o envio e consumo de mensagems para uma fila AWS SQS.</h2>
 
 Neste exemplo, a aplicação emula a ação de um microserviço que recebe uma requisição via REST API e publica essa requisição em uma fila AWS SQS pré determinada.
 Além disso, vamos usar a mesma aplicação para emular o papel de um microserviço consumidor destas mensagens.
